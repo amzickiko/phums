@@ -1,0 +1,46 @@
+
+@import 'https://fonts.googleapis.com/css?family=Kanit|Prompt';
+.main{
+    width: 100%;
+    margin: 50px auto 0px;
+    color: black ;
+    text-align: center;
+    font-family:'Prompt', sans-serif;
+}
+.submain{
+    width: 100%;
+    margin: 10px auto 0px;
+    color: black ;
+    text-align: center;
+    font-family:'Prompt', sans-serif;
+    font-size: 12;
+}
+
+.btn {
+    padding: 5px 65px;
+  
+    color: white;
+    background: #791096;
+    border-radius: 20px;
+    font-size: 16;
+    font-family:'Prompt', sans-serif;
+    
+}
+.input-group input {
+    height: 25px;
+    width: 93%;
+    padding: 5px 9px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-family:'Prompt', sans-serif;
+}
+.error {
+    width: 110%;
+    padding: 10px;
+    color: red;
+
+    font-size: 16;
+    text-align: left;
+    font-family:'Prompt', sans-serif;
+}
